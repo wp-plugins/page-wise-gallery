@@ -1,0 +1,7 @@
+.pwg_list{clear:both; float:left;}
+.pwg_list li{ border: 1px solid #c9daca;
+    float: left;
+    list-style: outside none none;
+    margin-left: 6px;
+    padding: 5px;}
+    .updated p {color: #f00; background:#f00;}
